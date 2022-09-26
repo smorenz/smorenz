@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brayan
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security and web development 💻
 - 🌱 I’m currently learning javascript and C++!
 
 <!---
