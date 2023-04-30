@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brayan
-- 👀 I’m interested in cyber security and web development 💻
-- 🌱 I’m currently learning javascript, C and C++!
+- 👀 I’m interested in cyber security 💻
+- 🌱 I’m currently learning C 
 
 <!---
 ElBrayan12/ElBrayan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
