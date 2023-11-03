@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brayan
+- 👋 Hi, I’m Sergio
 - 👀 I’m interested in software development!
 - 🌱 I’m currently learning C, C++ and Java
 
